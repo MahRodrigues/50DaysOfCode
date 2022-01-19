@@ -4,3 +4,11 @@ On 18th January, 2022, I decided to start the 50 Days Of Code challenge. For the
 
 ## Day 1
 
+Take two numbers of int data type, two numbers of float data type as input and output their sum and difference.
+
+**From**: Hackerrank
+
+**Difficulty:** Easy
+
+**Link:** https://www.hackerrank.com/challenges/sum-numbers-c/problem
+
