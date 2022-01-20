@@ -1,0 +1,5 @@
+Find the sum of all even numbers in a given range.
+
+For an extra challenge, if num1 > num2, the range should be considered from num2 to num1.  
+
+This exercise contains if else and loop. 
