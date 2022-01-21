@@ -1,0 +1,8 @@
+Write a program to read the age of an indertemined number of people. The age 0 (zero) indicates the end and should not be read.
+
+Show:
+- the amount of people
+- the average age of the group
+- the lowest and highest age 
+
+This exercise contains if else and loop.
