@@ -22,3 +22,18 @@ For an extra challenge, if num1 > num2, the range should be considered from num2
 **Difficulty:** Easy
 
 **Link:** https://codeforwin.org/2015/06/c-program-to-print-sum-of-all-even-numbers-between-1-to-n.html
+
+## Day 3
+
+Write a program to read the age of an indertemined number of people. The age 0 (zero) indicates the end and should not be read.
+
+Show:
+- the amount of people
+- the average age of the group
+- the lowest and highest age 
+
+**From**: Personal File
+
+**Difficulty:** Easy
+
+**Link:** n/a
