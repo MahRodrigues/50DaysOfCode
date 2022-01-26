@@ -1,0 +1,7 @@
+Try to generate the following pattern using nested loop (it should increase according to the number of rows):
+
+3 2 1
+3 2 
+3
+
+This exercise constains nested loop.
