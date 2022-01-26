@@ -1,6 +1,8 @@
 # 50DaysOfCode
 
-On 18th January, 2022, I decided to start the 50 Days Of Code challenge. For the remainder of these 50 days, I will code and push at least one exercise a day into GitHub. The problems will be selected from Hackerrank, Exercism,  CodeAbbey and Codeforwin. Exercises will be chosen according to an escalating difficulty level. I expect this challenge to improve my productivity and programming skills, thus preparing me for a new semester in computer science.  
+On 18th January, 2022, I decided to start the 50 Days Of Code challenge. For the remainder of these 50 days, I will code and push at least one exercise a day into GitHub. This project will be based around the C language.
+
+The problems will be selected from Hackerrank, Exercism, CodeAbbey and Codeforwin. Exercises will be chosen according to an escalating difficulty level. I expect this challenge to improve my productivity and programming skills, thus preparing me for a new semester in computer science.  
 
 ## Day 1
 
@@ -8,7 +10,7 @@ Take two numbers of int data type, two numbers of float data type as input and o
 
 **From**: Hackerrank
 
-**Difficulty:** Easy
+**Difficulty:** Basic
 
 **Link:** https://www.hackerrank.com/challenges/sum-numbers-c/problem
 
@@ -19,7 +21,7 @@ For an extra challenge, if num1 > num2, the range should be considered from num2
 
 **From**: Codeforwin
 
-**Difficulty:** Easy
+**Difficulty:** Basic
 
 **Link:** https://codeforwin.org/2015/06/c-program-to-print-sum-of-all-even-numbers-between-1-to-n.html
 
@@ -34,6 +36,38 @@ Show:
 
 **From**: Personal File
 
-**Difficulty:** Easy
+**Difficulty:** Basic
+
+**Link:** n/a
+
+## Day 4
+
+Try to generate the following series using nested loop (it should increase according to the number of rows):
+
+1
+22
+333
+4444
+55555
+
+**From**: Personal File
+
+**Difficulty:** Basic
+
+**Link:** n/a
+
+## Day 5
+
+Try to generate the following pattern using nested loop (it should increase according to the number of rows):
+
+3 2 1
+3 2 
+3
+
+This exercise constains nested loop.
+
+**From**: Personal File
+
+**Difficulty:** Basic
 
 **Link:** n/a
