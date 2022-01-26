@@ -1,0 +1,9 @@
+Try to generate the following series using nested loop:
+
+1
+22
+333
+4444
+55555
+
+This exercise constains nested loop.
