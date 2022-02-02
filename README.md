@@ -71,3 +71,31 @@ This exercise constains nested loop.
 **Difficulty:** Basic
 
 **Link:** n/a
+
+## COVID-19
+
+An extended pause was necessary due to the side effects of Covid-19. 
+
+## Day 6
+
+Show the basic declaration of a pointer (* and &).
+
+This exercise contains pointers.
+
+**From**: Personal File
+
+**Difficulty:** Basic
+
+**Link:** n/a
+
+## Day 7
+
+Write a simple program to swap elements using pointers.
+
+This exercise contains pointers.
+
+**From**: Personal File
+
+**Difficulty:** Basic
+
+**Link:** n/a
