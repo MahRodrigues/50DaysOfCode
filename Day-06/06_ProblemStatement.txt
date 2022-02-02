@@ -1,0 +1,1 @@
+Show the basic declaration of a pointer (* and &).
